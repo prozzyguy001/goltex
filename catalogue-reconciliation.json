@@ -1,0 +1,80 @@
+{
+  "generatedAt": "2026-10-17T02:19:01.855Z",
+  "sources": {
+    "HPZ Latest Price": {
+      "pages": 2,
+      "extracted": 75
+    },
+    "Harefield Price List": {
+      "pages": 1,
+      "extracted": 27
+    },
+    "LG Price List": {
+      "pages": 3,
+      "extracted": 101
+    },
+    "MAXI Price List": {
+      "pages": 4,
+      "extracted": 80
+    },
+    "Polystar Price List": {
+      "pages": 18,
+      "extracted": 103
+    },
+    "08-Aug-2026 Price List": {
+      "pages": 17,
+      "extracted": 105
+    },
+    "Product Sell Price Table": {
+      "pages": 4,
+      "extracted": 127
+    }
+  },
+  "totalRawRecords": 618,
+  "totalUnique": 571,
+  "duplicatesRemoved": 47,
+  "productsWithPrices": 571,
+  "productsWithoutPrices": 0,
+  "productsByBrand": {
+    "Hisense": 75,
+    "Harefield": 23,
+    "LG": 96,
+    "MAXI": 180,
+    "Polystar": 102,
+    "Other": 11,
+    "WUF": 11,
+    "Xiaomi": 6,
+    "Zealot": 15,
+    "Tecno": 27,
+    "Toshiba": 4,
+    "Villaon": 15,
+    "Vistab": 1,
+    "Vivo": 5
+  },
+  "productsByCategory": {
+    "Refrigerators": 41,
+    "Freezers": 30,
+    "Air Conditioners": 56,
+    "Washing Machines": 34,
+    "Kitchen Appliances": 51,
+    "Cookers": 71,
+    "Generators": 20,
+    "Accessories": 31,
+    "Televisions": 32,
+    "Other Electronics": 80,
+    "Audio": 84,
+    "Home & Living": 2,
+    "Fans & Cooling": 19,
+    "Water & Heating": 10,
+    "Mobile & Accessories": 10
+  },
+  "imagesVerified": 0,
+  "imagesUnresolved": 571,
+  "notes": [
+    "08-Aug-2026 recovered from corrupted PDF by decoding content stream text (char offset 0x1D).",
+    "Sell-price table recovered using pdf-parse.",
+    "HPZ/Harefield: dealer price × 1.10 = sell price.",
+    "LG/MAXI/Polystar/08-Aug: listed price × 1.10 = sell price.",
+    "Sell-price table: prices used directly."
+  ]
+}
